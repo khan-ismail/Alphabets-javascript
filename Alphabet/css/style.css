@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-image: url('../images/alphabe.jpg');
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.letter{
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.alphabet{
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+}
+
+.last-button{
+    width: 100%;
+}
+
+.a{
+
+}
+
+.b{
+
+}
+
+.c{
+
+}
+
+.d{
+
+}
+
+.e{
+
+}
+
+.f{
+
+}
+
+.g{
+
+}
+
+.h{
+
+}
+
+.i{
+
+}
+
+.j{
+
+}
+
+.k{
+
+}
+
+.l{
+
+}
+
+.m{
+
+}
+
+.n{
+
+}
+
+.o{
+
+}
+
+.p{
+
+}
+
+.q{
+
+}
+
+.r{
+
+}
+
+.s{
+
+}
+
+.t{
+
+}
+
+.u{
+
+}
+
+.v{
+
+}
+
+.w{
+
+}
+
+.x{
+
+}
+
+.y{
+
+}
+
+.z{
+
+}
